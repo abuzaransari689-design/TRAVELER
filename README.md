@@ -33,7 +33,7 @@ traveler system/
 │  │  └─ index.css
 │  ├─ package.json
 │  └─ vite.config.js
-├─ app.py
+├─ main.py
 ├─ run.py
 ├─ requirements.txt
 └─ .env
