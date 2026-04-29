@@ -1,7 +1,6 @@
 Flask
-Werkzeug
+Flask-Cors
 Flask-SQLAlchemy
 Flask-Migrate
-Flask-Cors
 python-dotenv
-PyJWT
+gunicorn
